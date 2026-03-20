@@ -72,7 +72,5 @@ Se construyó un dashboard interactivo dividido en dos vistas principales:
 - Power BI (visualización y análisis)
 - Jupyter Notebook
 
----
 
-## 📁 Estructura del Proyecto
 
