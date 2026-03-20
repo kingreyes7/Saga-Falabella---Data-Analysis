@@ -1,0 +1,33 @@
+mes|tienda|vertical|venta_marzo|remuneracion_marzo
+2026-03|Angamos|Hogar|570000|153000
+2026-03|Angamos|Moda|400000|102000
+2026-03|Angamos|Tecnología|1792000|420200
+2026-03|Angamos|Útiles Escolares|300000|90000
+2026-03|Bellavista|Hogar|1824000|348000
+2026-03|Bellavista|Moda|1440000|261000
+2026-03|Bellavista|Tecnología|1075200|179200
+2026-03|Bellavista|Útiles Escolares|500000|120000
+2026-03|Jockey Plaza|Hogar|1895200|311500
+2026-03|Jockey Plaza|Moda|3705000|578500
+2026-03|Jockey Plaza|Tecnología|3192000|458400
+2026-03|Jockey Plaza|Útiles Escolares|4200000|650000
+2026-03|La Molina|Hogar|584200|154500
+2026-03|La Molina|Moda|615000|154500
+2026-03|La Molina|Tecnología|1377600|318300
+2026-03|La Molina|Útiles Escolares|200000|80000
+2026-03|Mall del Sur|Hogar|755200|132000
+2026-03|Mall del Sur|Moda|3710000|616000
+2026-03|Mall del Sur|Tecnología|3264800|498500
+2026-03|Mall del Sur|Útiles Escolares|3900000|620000
+2026-03|Plaza Lima Norte|Hogar|2394000|387000
+2026-03|Plaza Lima Norte|Moda|3640000|559000
+2026-03|Plaza Lima Norte|Tecnología|3136000|442900
+2026-03|Plaza Lima Norte|Útiles Escolares|4100000|640000
+2026-03|Salaverry|Hogar|1396500|264000
+2026-03|Salaverry|Moda|1715000|308000
+2026-03|Salaverry|Tecnología|1646400|271900
+2026-03|Salaverry|Útiles Escolares|600000|150000
+2026-03|San Isidro|Hogar|598500|150000
+2026-03|San Isidro|Moda|1050000|250000
+2026-03|San Isidro|Tecnología|1411200|309000
+2026-03|San Isidro|Útiles Escolares|180000|70000
